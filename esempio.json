@@ -1,0 +1,234 @@
+[
+    {
+        "idDip": "0001",
+        "dipendente": "BIANCHI Andrea",
+        "datiAnnoSpecifici": [
+            {
+                "anno": 2019,
+                "datiMesiSpecifici": [
+                    {
+                        "mese": "OTTOBRE",
+                        "ore": 108,
+                        "ipFatt": "2.902,50",
+                        "costoMese": "1.890,00",
+                        "tariffa": "215,00"
+                    },
+                    {
+                        "mese": "NOVEMBRE",
+                        "ore": 155,
+                        "ipFatt": "4.165,63",
+                        "costoMese": "1.890,00",
+                        "tariffa": "215,00"
+                    },
+                    {
+                        "mese": "DICEMBRE",
+                        "ore": 160,
+                        "ipFatt": "4.300,00",
+                        "costoMese": "1.890,00",
+                        "tariffa": "215,00"
+                    }
+                ]
+            },
+            {
+                "anno": 2020,
+                "datiMesiSpecifici": [
+                    {
+                        "mese": "GENNAIO",
+                        "ore": 120,
+                        "ipFatt": "3.375,00",
+                        "costoMese": "1.890,00",
+                        "tariffa": "225,00"
+                    },
+                    {
+                        "mese": "FEBBRAIO",
+                        "ore": 160,
+                        "ipFatt": "4.500,00",
+                        "costoMese": "1.890,00",
+                        "tariffa": "225,00"
+                    },
+                    {
+                        "mese": "MARZO",
+                        "ore": 160,
+                        "ipFatt": "4.500,00",
+                        "costoMese": "1.890,00",
+                        "tariffa": "225,00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idDip": "0002",
+        "dipendente": "VERDE Francesco",
+        "datiAnnoSpecifici": [
+            {
+                "anno": 2019,
+                "datiMesiSpecifici": [
+                    {
+                        "mese": "OTTOBRE",
+                        "ore": 100,
+                        "ipFatt": "2.687,50",
+                        "costoMese": "1.750,00",
+                        "tariffa": "215,00"
+                    },
+                    {
+                        "mese": "NOVEMBRE",
+                        "ore": 120,
+                        "ipFatt": "3.225,00",
+                        "costoMese": "1.750,00",
+                        "tariffa": "215,00"
+                    },
+                    {
+                        "mese": "DICEMBRE",
+                        "ore": 160,
+                        "ipFatt": "4.300,00",
+                        "costoMese": "1.750,00",
+                        "tariffa": "215,00"
+                    }
+                ]
+            },
+            {
+                "anno": 2020,
+                "datiMesiSpecifici": [
+                    {
+                        "mese": "GENNAIO",
+                        "ore": 110,
+                        "ipFatt": "2.687,50",
+                        "costoMese": "1.750,00",
+                        "tariffa": "215,00"
+                    },
+                    {
+                        "mese": "FEBBRAIO",
+                        "ore": 150,
+                        "ipFatt": "3.225,00",
+                        "costoMese": "1.750,00",
+                        "tariffa": "215,00"
+                    },
+                    {
+                        "mese": "MARZO",
+                        "ore": 160,
+                        "ipFatt": "4.300,00",
+                        "costoMese": "1.750,00",
+                        "tariffa": "215,00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idDip": "0003",
+        "dipendente": "BLU Giovanni",
+        "datiAnnoSpecifici": [
+            {
+                "anno": 2019,
+                "datiMesiSpecifici": [
+                    {
+                        "mese": "OTTOBRE",
+                        "ore": 90,
+                        "ipFatt": "2.137,50",
+                        "costoMese": "1.834,00",
+                        "tariffa": "190,00"
+                    },
+                    {
+                        "mese": "NOVEMBRE",
+                        "ore": 120,
+                        "ipFatt": "2.850,00",
+                        "costoMese": "1.834,00",
+                        "tariffa": "190,00"
+                    },
+                    {
+                        "mese": "DICEMBRE",
+                        "ore": 150,
+                        "ipFatt": "3.562,50",
+                        "costoMese": "1.834,00",
+                        "tariffa": "190,00"
+                    }
+                ]
+            },
+            {
+                "anno": 2020,
+                "datiMesiSpecifici": [
+                    {
+                        "mese": "GENNAIO",
+                        "ore": 100,
+                        "ipFatt": "2.375,00",
+                        "costoMese": "1.834,00",
+                        "tariffa": "190,00"
+                    },
+                    {
+                        "mese": "FEBBRAIO",
+                        "ore": 105,
+                        "ipFatt": "3.493,75",
+                        "costoMese": "1.834,00",
+                        "tariffa": "190,00"
+                    },
+                    {
+                        "mese": "MARZO",
+                        "ore": 170,
+                        "ipFatt": "4.037,50",
+                        "costoMese": "1.834,00",
+                        "tariffa": "190,00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idDip": "0004",
+        "dipendente": "GIALLO Anna",
+        "datiAnnoSpecifici": [
+            {
+                "anno": 2019,
+                "datiMesiSpecifici": [
+                    {
+                        "mese": "OTTOBRE",
+                        "ore": 70,
+                        "ipFatt": "1.662,50",
+                        "costoMese": "1.600,00",
+                        "tariffa": "190,00"
+                    },
+                    {
+                        "mese": "NOVEMBRE",
+                        "ore": 100,
+                        "ipFatt": "2.374,00",
+                        "costoMese": "1.600,00",
+                        "tariffa": "190,00"
+                    },
+                    {
+                        "mese": "DICEMBRE",
+                        "ore": 110,
+                        "ipFatt": "2.615,50",
+                        "costoMese": "1.600,00",
+                        "tariffa": "190,00"
+                    }
+                ]
+            },
+            {
+                "anno": 2020,
+                "datiMesiSpecifici": [
+                    {
+                        "mese": "GENNAIO",
+                        "ore": 60,
+                        "ipFatt": "1.425,00",
+                        "costoMese": "1.600,00",
+                        "tariffa": "190,00"
+                    },
+                    {
+                        "mese": "FEBBRAIO",
+                        "ore": 90,
+                        "ipFatt": "2.137,50",
+                        "costoMese": "1.600,00",
+                        "tariffa": "190,00"
+                    },
+                    {
+                        "mese": "MARZO",
+                        "ore": 95,
+                        "ipFatt": "2.256,25",
+                        "costoMese": "1.600,00",
+                        "tariffa": "190,00"
+                    }
+                ]
+            }
+        ]
+    }
+]
