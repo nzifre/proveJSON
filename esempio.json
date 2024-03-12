@@ -1,7 +1,7 @@
 [
     {
         "idDip": "0001",
-        "dipendente": "BIANCHI Andrea",
+        "nomeDipendente": "BIANCHI Andrea",
         "datiAnnoSpecifici": [
             {
                 "anno": 2019,
@@ -59,7 +59,7 @@
     },
     {
         "idDip": "0002",
-        "dipendente": "VERDE Francesco",
+        "nomeDipendente": "VERDE Francesco",
         "datiAnnoSpecifici": [
             {
                 "anno": 2019,
@@ -117,7 +117,7 @@
     },
     {
         "idDip": "0003",
-        "dipendente": "BLU Giovanni",
+        "nomeDipendente": "BLU Giovanni",
         "datiAnnoSpecifici": [
             {
                 "anno": 2019,
@@ -175,7 +175,7 @@
     },
     {
         "idDip": "0004",
-        "dipendente": "GIALLO Anna",
+        "nomeDipendente": "GIALLO Anna",
         "datiAnnoSpecifici": [
             {
                 "anno": 2019,
